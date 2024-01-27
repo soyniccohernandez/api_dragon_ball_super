@@ -32,3 +32,5 @@ En esta guía, exploraremos paso a paso cómo utilizar las características mode
 
 ¡Esperamos que esta guía sea útil en tu exploración de la conexión a APIs con JavaScript! No dudes en compartir tus experiencias y éxitos.
 
+
+![Conectándose a una API con JavaScript: Async, Await y Fetch](https://github.com/soyniccohernandez/api_dragon_ball_super/blob/master/img/Descripci%C3%B3n.png?raw=true)
